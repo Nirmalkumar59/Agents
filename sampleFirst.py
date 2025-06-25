@@ -5,3 +5,4 @@ def sample(name)->str:
 if __name__ == "__main__":
     name = input("Enter The Name:")
     print(sample(name))
+# i edited it
